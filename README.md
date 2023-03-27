@@ -56,4 +56,4 @@ minutes et SS = secondes, en nombre.
 2 A l'aide du formulaire #formulaire-title, utilisez
 javascript pour remplacer le contenu du <h1> de la
 page par le contenu du champ texte du formulaire.
-LA COMMUNICATION ENTRE LES
+
